@@ -1,0 +1,90 @@
+{
+   "name": "t_interaction_up",
+   "variations": [
+      {
+         "map": {
+            "compressionlevel": -1,
+            "editorsettings": {
+               "export": {
+                  "target": "."
+               }
+            },
+            "height": 11,
+            "infinite": false,
+            "layers": [
+               {
+                  "compression": "zlib",
+                  "data": "eJwLZ2ZgCMeDkwlgJgbKMB8BLEUA0xp4A/3ow4wp7sUMkQOFUQQW+TCoHADquAoB",
+                  "encoding": "base64",
+                  "height": 11,
+                  "id": 1,
+                  "name": "",
+                  "opacity": 1,
+                  "type": "tilelayer",
+                  "visible": true,
+                  "width": 8,
+                  "x": 0,
+                  "y": 0
+               }
+            ],
+            "nextlayerid": 2,
+            "nextobjectid": 1,
+            "orientation": "orthogonal",
+            "renderorder": "right-down",
+            "tiledversion": "1.4.1",
+            "tileheight": 16,
+            "tilesets": [
+               {
+                  "firstgid": 1,
+                  "source": "../stone_cave.tsx"
+               }
+            ],
+            "tilewidth": 16,
+            "type": "map",
+            "version": 1.4,
+            "width": 8
+         },
+         "probability": 0
+      },
+      {
+         "map": {
+            "compressionlevel": -1,
+            "height": 11,
+            "infinite": false,
+            "layers": [
+               {
+                  "compression": "zlib",
+                  "data": "eJwLZ2ZgiALiZCQcCcThUAzipwAxEwMCJyGpBfGZGVDlGdH4IHk+JIwsD+LzA7EUEuZFUgviSzOgAkkktbQG3kDH+zBjinsxQ+RAYRSBRT4MKgcAwdYI+A==",
+                  "encoding": "base64",
+                  "height": 11,
+                  "id": 1,
+                  "name": "",
+                  "opacity": 1,
+                  "type": "tilelayer",
+                  "visible": true,
+                  "width": 8,
+                  "x": 0,
+                  "y": 0
+               }
+            ],
+            "nextlayerid": 2,
+            "nextobjectid": 1,
+            "orientation": "orthogonal",
+            "renderorder": "right-down",
+            "tiledversion": "1.4.1",
+            "tileheight": 16,
+            "tilesets": [
+               {
+                  "firstgid": 1,
+                  "source": "../stone_cave.tsx"
+               }
+            ],
+            "tilewidth": 16,
+            "type": "map",
+            "version": 1.4,
+            "width": 8
+         },
+         "probability": 1
+      }
+   ]
+}

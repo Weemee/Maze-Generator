@@ -1,0 +1,170 @@
+{
+   "name": "end_down",
+   "variations": [
+      {
+         "map": {
+            "compressionlevel": -1,
+            "editorsettings": {
+               "export": {
+                  "target": "."
+               }
+            },
+            "height": 11,
+            "infinite": false,
+            "layers": [
+               {
+                  "compression": "zlib",
+                  "data": "eJwLZ2ZgiABidBAGFAuH4pEu7wfE3mjYF0keHwYAFiESBg==",
+                  "encoding": "base64",
+                  "height": 11,
+                  "id": 1,
+                  "name": "",
+                  "opacity": 1,
+                  "type": "tilelayer",
+                  "visible": true,
+                  "width": 8,
+                  "x": 0,
+                  "y": 0
+               }
+            ],
+            "nextlayerid": 2,
+            "nextobjectid": 1,
+            "orientation": "orthogonal",
+            "renderorder": "right-down",
+            "tiledversion": "1.4.1",
+            "tileheight": 16,
+            "tilesets": [
+               {
+                  "firstgid": 1,
+                  "source": "../stone_cave.tsx"
+               }
+            ],
+            "tilewidth": 16,
+            "type": "map",
+            "version": 1.4,
+            "width": 8
+         },
+         "probability": 0
+      },
+      {
+         "map": {
+            "compressionlevel": -1,
+            "height": 11,
+            "infinite": false,
+            "layers": [
+               {
+                  "compression": "zlib",
+                  "data": "eJwLZ2ZgiABidBAGFAuHYj8g9kFTkwTkRyKpQTeDEcmMKCBOwSMP0ovuBF4C8pJo8vyYXkCRl0aT8wKK+eLxH7L/0dUg60VX440mBwAatxGA",
+                  "encoding": "base64",
+                  "height": 11,
+                  "id": 1,
+                  "name": "",
+                  "opacity": 1,
+                  "type": "tilelayer",
+                  "visible": true,
+                  "width": 8,
+                  "x": 0,
+                  "y": 0
+               }
+            ],
+            "nextlayerid": 2,
+            "nextobjectid": 1,
+            "orientation": "orthogonal",
+            "renderorder": "right-down",
+            "tiledversion": "1.4.1",
+            "tileheight": 16,
+            "tilesets": [
+               {
+                  "firstgid": 1,
+                  "source": "../stone_cave.tsx"
+               }
+            ],
+            "tilewidth": 16,
+            "type": "map",
+            "version": 1.4,
+            "width": 8
+         },
+         "probability": 1
+      },
+      {
+         "map": {
+            "compressionlevel": -1,
+            "height": 11,
+            "infinite": false,
+            "layers": [
+               {
+                  "compression": "zlib",
+                  "data": "eJwLZ2ZgiABidBAGFAuH4sEu7wfEPsy45dHVeAFpXzR5mBpvHHLkYgAboBS6",
+                  "encoding": "base64",
+                  "height": 11,
+                  "id": 1,
+                  "name": "",
+                  "opacity": 1,
+                  "type": "tilelayer",
+                  "visible": true,
+                  "width": 8,
+                  "x": 0,
+                  "y": 0
+               }
+            ],
+            "nextlayerid": 2,
+            "nextobjectid": 1,
+            "orientation": "orthogonal",
+            "renderorder": "right-down",
+            "tiledversion": "1.4.1",
+            "tileheight": 16,
+            "tilesets": [
+               {
+                  "firstgid": 1,
+                  "source": "../stone_cave.tsx"
+               }
+            ],
+            "tilewidth": 16,
+            "type": "map",
+            "version": 1.4,
+            "width": 8
+         },
+         "probability": 1
+      },
+      {
+         "map": {
+            "compressionlevel": -1,
+            "height": 11,
+            "infinite": false,
+            "layers": [
+               {
+                  "compression": "zlib",
+                  "data": "eJwLZ2ZgiABiZOAF5PsCcTgU+wGxD5KaJCA7Ekk+CohTkOQZ0dSAzEe2ghGKw3DI82KR50eSl4SqQZaXRvUCWA2yPDYQhsN/hMIAXQ5ZjTeaHADu8BH6",
+                  "encoding": "base64",
+                  "height": 11,
+                  "id": 1,
+                  "name": "",
+                  "opacity": 1,
+                  "type": "tilelayer",
+                  "visible": true,
+                  "width": 8,
+                  "x": 0,
+                  "y": 0
+               }
+            ],
+            "nextlayerid": 2,
+            "nextobjectid": 1,
+            "orientation": "orthogonal",
+            "renderorder": "right-down",
+            "tiledversion": "1.4.1",
+            "tileheight": 16,
+            "tilesets": [
+               {
+                  "firstgid": 1,
+                  "source": "../stone_cave.tsx"
+               }
+            ],
+            "tilewidth": 16,
+            "type": "map",
+            "version": 1.4,
+            "width": 8
+         },
+         "probability": 1
+      }
+   ]
+}
